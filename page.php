@@ -1,1 +1,1 @@
-<?php test 123?>
+<?php test 123 phpinfo()?>
